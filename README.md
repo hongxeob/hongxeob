@@ -1,6 +1,6 @@
 <div align="center">
 <h3>🔥 Just Do It 🔥</h3>
-<p><a href="https://velog.io/@hongxeob/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3178C6?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p><a href="https://velog.io/@hongxeob/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3178C6?style=flat&logo=Fireship&logoColor=white"/></a></p>
 <p>Hi There! I'm a frontEnd developer.</p>
 <p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
