@@ -1,7 +1,9 @@
-<h3 align="center"><b>🔥 Just Do It 🔥</b></h3>
-
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://velog.io/@hongxeob/)
-
+<div align="center">
+<h3>🔥 Just Do It 🔥</h3>
+<p><a href="https://velog.io/@hongxeob/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p>Hi There! I'm a frontEnd developer.</p>
+<p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
+<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
 
 <!--
 **hongxeob/hongxeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
