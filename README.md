@@ -1,7 +1,7 @@
 <div align="center">
-<h3>🔥 Just Do It 🔥</h3>
+<h3>🔥 Just Do It! Simple is B E S T!! 🔥</h3>
 <p><a href="https://velog.io/@hongxeob/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3178C6?style=flat&logo=Fireship&logoColor=white"/></a></p>
-<p>Hi There! I'm a frontEnd developer.</p>
+<p>안녕하세요 백엔드 개발자를 꿈꾸는 이홍섭입니다.</p>
 <p> My main skills are HTML, CSS, JavaScript, React and TypeScript</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
 
