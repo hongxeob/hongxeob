@@ -2,7 +2,7 @@
 <h3>🔥 Just Do It!🔥</h3>
 <h3> Simple is B E S T!! </h3>
 
-<p> 그냥 하자! 심플한게 최고다!!</p>
+<p> 일단 하자! 그냥 하자! 심플한게 최고다!!</p>
 <!-- <p> 느릴 수 있어도 최선을 다하는, 일단 하고 보는 예비 백엔드 개발자입니다</p> -->
 <p><a href="https://velog.io/@hongxeob/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3178C6?style=flat&logo=Fireship&logoColor=white"/></a></p>
 
