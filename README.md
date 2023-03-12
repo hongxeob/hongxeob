@@ -1,11 +1,12 @@
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Just%20Do%20It!&fontSize=90" />	
-  <br>
-  꾸준함의 힘을 아는 개발자 이홍섭입니다.
+ 
 </div>
 <div align=center>
-	<h3>📚 My Stack 📚</h3>
+	
+  꾸준함의 힘을 아는 개발자 이홍섭입니다.
+	 <br>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
