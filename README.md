@@ -1,12 +1,15 @@
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Just%20Do%20It!&fontSize=90" />	
- 
 </div>
 <div align=center>
 	
-  꾸준함의 힘을 아는 개발자 이홍섭입니다.
-	 <br>
+### About Me
+	
+---
+ ✓ 안녕하세요. `꾸준함`의 힘을 아는 개발자 이홍섭 입니다.<br>
+ ✓ 저는 호기심을 바탕으로 `자기주도적 성장`을 추구합니다.<br>
+ ✓ `시스템`을 만든 사람이 목표를 달성한다는 것을 압니다.<br>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -23,3 +26,6 @@
 <br>
   
 </div>
+<p align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongxeob&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                 
+</p>
