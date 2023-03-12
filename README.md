@@ -1,23 +1,24 @@
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Just%20Do%20It!&fontSize=90" />	
+  <br>
+  꾸준함의 힘을 아는 개발자 이홍섭입니다.
+</div>
+<div align=center>
+	<h3>📚 My Stack 📚</h3>
+</div>
 <div align="center">
-<h3>🔥 Just Do It!🔥</h3>
-<h3> Simple is B E S T!! </h3>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Spring-boot&logoColor=white" />
 
-<p> 일단 하자! 그냥 하자! 심플한게 최고다!!</p>
-<!-- <p> 느릴 수 있어도 최선을 다하는, 일단 하고 보는 예비 백엔드 개발자입니다</p> -->
-<p><a href="https://velog.io/@hongxeob/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3178C6?style=flat&logo=Fireship&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white" />
 
-
-<!--
-**hongxeob/hongxeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<div align='center'> 📧 : sjun2918@naver.com</div>
+<div align='center'> 🏠 : <a href="https://hongseob.tistory.com">https://hongseob.tistory.com</a></div>
+<br>
+  
+</div>
