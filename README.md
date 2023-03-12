@@ -7,9 +7,9 @@
 ### About Me
 	
 ---
- ✓ 안녕하세요. `꾸준함의 힘`을 아는 개발자 이홍섭 입니다.<br>
+ ✓ 안녕하세요. `꾸준함`의 힘을 아는 개발자 이홍섭 입니다.<br>
  ✓ 저는 호기심을 바탕으로 `자기주도적 성장`을 추구합니다.<br>
- ✓ `시스템`을 만든 사람이 목표를 달성한다는 것을 압니다.<br>
+ ✓ `시스템`을 만든 사람이 `목표`를 달성한다는 것을 압니다.<br>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
