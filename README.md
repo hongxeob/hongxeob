@@ -21,7 +21,7 @@
 
 <br>
 <br>
-<div align='center'> 📧 : sjun2918@naver.com</div>
+<div align='center'> 📧 : honggg66772291@gmail.com</div>
 <div align='center'> 📓 : <a href="https://url.kr/9ybum8">Routine Planner</a></div>
 <br>
   
