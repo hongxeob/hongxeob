@@ -22,7 +22,7 @@
 <br>
 <br>
 <div align='center'> 📧 : hongggg66772291@gmail.com</div>
-<div align='center'> 📓 : <a href="https://url.kr/9ybum8">Routine Planner</a></div>
+<div align='center'> 📓 : <a href="https://me2.kr/ciBBS">Routine Planner</a></div>
 <br>
   
 </div>
