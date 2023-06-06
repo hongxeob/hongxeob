@@ -23,6 +23,7 @@
 <br>
 <div align='center'> 📧 : hongggg66772291@gmail.com</div>
 <div align='center'> 📓 : <a href="https://me2.kr/ciBBS">Routine Planner</a></div>
+<div align='center'> 🎞️ : <a href="https://velog.io/@hongxeob/series/%ED%9A%8C%EA%B3%A0">Memoirs</a></div>
 <br>
   
 </div>
